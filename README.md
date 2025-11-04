@@ -26,4 +26,4 @@ The design is inspired by a Figma community design template found [here](https:/
 
 ## Live Demo
 
-[View Demo](#) - _Coming soon_
+[View Demo](https://jamalapriadi.github.io/workshop-figma-to-html/index.html)
